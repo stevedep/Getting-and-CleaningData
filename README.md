@@ -20,13 +20,21 @@ The transformation consists of;
 
 Codebook
 "Subject" - integer ID for the subject
+
 "Activity" - char describing the activity
+
 "Body.Acceleration.Average.Y" - average of average for Body.Acceleration Y
+
 "Body.Acceleration.Average.Z" - average of average for Body.Acceleration Z
+
 "Body.Acceleration.Standard.Deviation.X" - average of std deviation for Body.Acceleration Z
+
 "Body.Acceleration.Standard.Deviation.Y" - etc. the measures below follow the same convention. Al the measures are in decimals. 
+
 "Body.Acceleration.Standard.Deviation.Z"
+
 "Gravity.Acceleration.Average.X"
+
 "Gravity.Acceleration.Average.Y"
 "Gravity.Acceleration.Average.Z"
 "Gravity.Acceleration.Standard.Deviation.X"
